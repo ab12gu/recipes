@@ -11,14 +11,14 @@
             "id": "22421652580ceae2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "beans/Pinto Beans.md",
-                "bFile": "beans/Pinto Beans.md",
-                "aRef": ""
+                "file": "eggplant/oven-roasted.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Pinto Beans"
+              "icon": "lucide-file",
+              "title": "oven-roasted"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "eggplant/oven-roasted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for oven-roasted"
             }
           },
           {
@@ -190,8 +191,8 @@
   },
   "active": "22421652580ceae2",
   "lastOpenFiles": [
-    "okra/roasted-okra.md",
-    "eggplant/Untitled.md",
+    "okra/oven-roasted.md",
+    "eggplant/oven-roasted.md",
     "okra/bhindi-masala.md",
     "beans/Pinto Beans.md",
     "eggplant",
