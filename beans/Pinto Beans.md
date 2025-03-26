@@ -14,4 +14,4 @@ https://www.loveandlemons.com/pinto-beans-recipe/
 	- squeeze of lime juice
 	- more salt and pepper
 	- chili powder
-
+7. Garnish the pinto beans with cilantro and red pepper flakes
