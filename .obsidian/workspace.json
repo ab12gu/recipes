@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eggplant/baingan-bharta.md",
+                "file": "eggplant/baba-ganoush.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "baingan-bharta"
+              "title": "baba-ganoush"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eggplant/baingan-bharta.md",
+                "file": "eggplant/baba-ganoush.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for baingan-bharta"
+              "title": "Backlinks for baba-ganoush"
             }
           },
           {
@@ -191,8 +191,9 @@
   },
   "active": "22421652580ceae2",
   "lastOpenFiles": [
-    "eggplant/oven-roasted.md",
     "eggplant/baingan-bharta.md",
+    "eggplant/baba-ganoush.md",
+    "eggplant/oven-roasted.md",
     "okra/oven-roasted.md",
     "okra/bhindi-masala.md",
     "beans/Pinto Beans.md",
