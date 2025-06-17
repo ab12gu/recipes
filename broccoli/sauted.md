@@ -9,10 +9,16 @@
 
 - salt
 - pepper
-- garlic powder
+- garlic powder or garlic
 - lemon
 - garnish with Parmesan or nutritional yeast ???
+- shredded cheese
+- red pepper flakes
 
+## Steps
+
+- Saute garlic and broccoli in pan with oil for 5 minutes
+- Add seasoning after 
 
 ## Citations
 
